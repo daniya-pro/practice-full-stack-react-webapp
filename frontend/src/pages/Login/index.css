@@ -1,0 +1,14 @@
+.transition-smooth {
+  transition-duration: 0.3s;
+}
+
+.m-b-10 {
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 700px) {
+  .mdq {
+    width: 100vh;
+    height: 114vh;
+  }
+}
